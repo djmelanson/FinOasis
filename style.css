@@ -4,8 +4,12 @@ body {
     padding-top: 70px;
 }
 
-.margin-spacing {
+.padding-spacing {
     padding: 20px;
+}
+
+.margin-spacing {
+    margin: 20px;
 }
 
 p {
