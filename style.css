@@ -20,3 +20,38 @@ p {
     text-justify: auto;
     text-indent: 30pt;
 }
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    color: white;
+    background-color: transparent;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    color: white;
+    background-color: transparent;
+  }
+
+  /* Instagram */
+  .fa-instagram {
+    color: white;
+    background-color: transparent;
+  }
